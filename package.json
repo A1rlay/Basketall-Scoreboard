@@ -1,7 +1,6 @@
 {
   "name": "Scrim-s0gt0athif",
   "description": "https://scrimba.com/s0gt0athif/head",
-  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
