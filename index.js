@@ -52,7 +52,6 @@ function checkValue(){
     if(homePoints == 0 && guestPoints == 0){
         guestEl.style.textShadow = "none";
         homeEl.style.textShadow = "none";
-        return;
     }
     if(homePoints > guestPoints){
         homeEl.style.textShadow = "5px 5px 1px #10d981";
